@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3681" started-at="2021-10-08T09:59:01Z" finished-at="2021-10-08T09:59:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3681" started-at="2021-10-08T09:59:01Z" finished-at="2021-10-08T09:59:04Z">
+      <class name="day2.Github">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:day2.Github@6dbb137d]" name="beforeTest" is-config="true" duration-ms="592" started-at="2021-10-08T09:59:01Z" finished-at="2021-10-08T09:59:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="createNewRepo()[pri:0, instance:day2.Github@6dbb137d]" name="createNewRepo" duration-ms="3059" started-at="2021-10-08T09:59:01Z" finished-at="2021-10-08T09:59:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewRepo -->
+      </class> <!-- day2.Github -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
